@@ -12,13 +12,9 @@ function getinfo($url){
 
 }
 
-
-
-
-
-
-
-
+function getname($champId){
+	return "Miss Fortune";
+	}
 
 
 ?>
